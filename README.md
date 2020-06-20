@@ -1,2 +1,3 @@
 # mkdocs-docker
-MkDocs as Docker Container
+
+Docker Wrapper for the MkDocs project: https://www.mkdocs.org/
